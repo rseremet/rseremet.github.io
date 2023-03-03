@@ -1,0 +1,141 @@
+{
+  "whoYouAre": "Who do you want to be?",
+  "resident": "Resident",
+  "team": "TEAM",
+  "mentor": "Mentor",
+  "back": "Back",
+  "forward": "Forward",
+  "supportProject": "Donate",
+  "aboutMainText": "Atom Space is a non-profit educational organization based in Odesa, Ukraine. We create opportunities for talented youth to become the next generation of product minded tech leaders and innovators focusing on the development of teamwork, problem-solving and communication skills.",
+  "aboutMainText1": "Atom Space is neither a school nor courses. It is an environment for personal growth and boost where young people age 15 to 20 meet like-minded people, co-work with peers solving real-world challenges, cooperate and learn from the experience of the best Ukrainian IT practitioners and global startup movers.",
+  "form": {
+    "toggle": "Pick up from AtomSpace?",
+    "toForm": "To Form",
+    "createOrder": "Checkout",
+    "size": "Size",
+    "buy": "Pay",
+    "detailOrder": "ORDER DETAILS",
+    "detailOrder2": "Please fill the following fields so we can send you a t-shirt .",
+    "yourChoice": "Your choice:",
+    "placeholders": {
+      "fullName": "Name surname:",
+      "phone": "Phone number:",
+      "city": "City:",
+      "email": "Email:",
+      "informationMentor": "I can share knowledge in:",
+      "informationResident": "Why do you want to become a resident?",
+      "hintResident": "* Be sure to fill out this line and tell us in detail and in detail why you should become a resident. Minimum - 3 offers. It is on the basis of the answers to this question that we will decide whether to call you for a further interview.",
+      "hintBirth": "* Mask dd/mm/yyyy. Example 01/10/2000.",
+      "npMail": "New Post Office:",
+      "birth": "Date of Birth:",
+      "interest": "Choose the interest of your contribution:",
+      "comments": "Commets:"
+    },
+    "select": {
+      "option1": "Sponsor the all-Ukrainian \"Youth Tech Community\" rally",
+      "option2": "Invest in a fund of opportunities for residents",
+      "option3": "Maintain the \"Girls in Tech\" intensive camp",
+      "option4": "Accept \"Atom Space\" residents for internships",
+      "option5": "Engage in inspirational conversations as a presenter",
+      "option6": "Develop an \"Atom Space\" branch network in your city"
+    },
+    "beMentor": "Become a mentor",
+    "mentorText": "Atom Space mentor works with residents individually or in a group. You will be provided with a Resident Development Roadmap so that you know exactly what topics should be covered. We strive for residents to master the learning material on their own, and the mentor, in turn, will guide and show how the problem can be solved more efficiently.",
+    "partnerText": "One of our priorities is to keep expanding the network of partners to turn residents’ ideas into viable products. We look for like-minded people who believe in the talented youth and ready to contribute with their time and resources. Choose the most suitable way to make an impact and be the part of a breakthrough moment of Atom residents.",
+    "beResident": "Become a resident",
+    "bePartner": "Become a partner",
+    "residentText": "Every motivated teen <1>from 16 to 20</1> who wants to connect his future with the IT world and is ready to study, research, be interested, ask, try, experiment, create, test, make mistakes and start over can become a resident of Atom Space.",
+    "mentorConfirmText": "<1>Thank you for the application!</1><1>We will contact you</1><1>soon!</1>",
+    "partnerConfirmText": "<1>Thank you for the application!</1><1>We will contact you</1><1>soon!</1>",
+    "residentConfirmText": "<1>Thank you for the application!</1><1>We will contact you before</1><1>recruiting!</1>"
+  },
+  "size": "Size:",
+  "main": {
+    "mainText": "educational tech space for teens"
+  },
+  "family": {
+    "quote-text-anna": "I often repeat the phrase: 'Do what you love and love what you do'. In Atom Space everyone does what they love: from residents to members of the team. Therefore, we are all so involved in the development of the organization.",
+    "quote-text-ver": "My story in Atom Space began with a mentoring, and when everyone around asked why I was spending hours volunteering, the answer was obvious. Because of the children. They are my inspiration and best motivation. Now, contributing a part of myself in the project, I feel involved in the formation of purposeful, talented and courageous personalities.",
+    "anna": "Anna Derevyanko",
+    "ver": "Veronika Ilnitska"
+  },
+  "join": "Join",
+  "blog": {
+    "mainText": "ATOM SPACE values",
+    "mainTextMobile": "Values",
+    "mind": {
+      "header": "Lifelong Learning",
+      "description": "We share with residents not only relevant knowledge, but also learn to learn by combining various educational forms and methods: work with a mentor and project learning, self-education and online learning"
+    },
+    "team": {
+      "header": "Team Synergy",
+      "description": "We are helping to create like-minded teams, where all participants are equally important and have the ability to be enthusiastic, suggest ideas, make mistakes without fear of judgment and grow with the team for the overall result."
+    },
+    "puzzle": {
+      "header": "Thinking Outside the Box",
+      "description": "We develop the ability to identify problems and needs of people and, most importantly, solve them using design thinking techniques"
+    },
+    "trust": {
+      "header": "Atmosphere of Trust",
+      "description": "In communication with all project participants we strive for mutual understanding, sincerity and trust through dialogue, informal meetings and time sharing."
+    }
+  },
+  "contacts": {
+    "headerAsk": "Do you like what we do?",
+    "headerAnswer": "Let's develop Atom Space together!"
+  },
+  "store": {
+    "mainText": "Do you want to contribute to the development of the project?",
+    "additionalText": "Choose and wear a stylish Atomic T-shirt!",
+    "mainTextMobile": "Would you like to support us?",
+    "additionalTextMobile": "Buy a t-shirt!"
+  },
+  "edu": {
+    "programs": "Atom Space Curriculum",
+    "programsMob": "Curriculum",
+    "rocket-logo": {
+      "text": "Space management - project management",
+      "mobileText": "Space management"
+    },
+    "layout-logo": {
+      "text": "HTML/CSS - the basics",
+      "mobileText": "HTML/CSS"
+    },
+    "checklist-logo": {
+      "text": "Web Application Testing Course",
+      "mobileText": "Quality assurance"
+    },
+    "computer-rocket-logo": {
+      "text": "Space Marketing",
+      "mobileText": "Space Marketing"
+    },
+    "scripts-logo": {
+      "text": "JavaScript",
+      "mobileText": "JavaScript"
+    },
+    "book-logo": {
+      "text": "English",
+      "mobileText": "English"
+    },
+    "python-logo": {
+      "text": "Python - the basics",
+      "mobileText": "Python"
+    },
+    "wordpress-logo": {
+      "text": "Working with WordPress",
+      "mobileText": "WordPress"
+    }
+  },
+  "atomspace": {
+    "address": "Odessa, Observatorny Lane, 2/6"
+  },
+  "nav": {
+    "main": "HOME",
+    "about": "ABOUT",
+    "blog": "VALUES",
+    "edu": "CURRICULUM",
+    "family": "ATOM TEAM",
+    "store": "ATOM STORE",
+    "contacts": "CONTACTS"
+  }
+}
