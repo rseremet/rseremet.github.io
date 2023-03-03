@@ -1,0 +1,13 @@
+.idea
+.vscode
+venv/
+Landing
+*.swp
+
+# misc
+.DS_Store
+
+ssl
+node_modules
+
+.ftpconfig
